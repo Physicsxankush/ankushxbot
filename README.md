@@ -20,7 +20,7 @@
         </ul>
         
         <h2>Follow Me</h2>
-        <p>follow me on <a href="https://www.instagram.com/@aankush._10" target="_blank">Instagram</a>.</p>
+        <p>follow me on <a href="https://www.instagram.com/@aankush._10" target="_blank">Instagram</a></p>
     </div>
     <footer>
         <p>© 2024 Ankush. All Rights Reserved.</p>
