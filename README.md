@@ -1,29 +1,53 @@
-# ankushxbot
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <header>
-        <h1>Welcome to Ankush's Webpage</h1>
-    </header>
-    <div class="container">
-        <h2>About Me</h2>
-        <p>Hi, I'm Ankush, a 2nd-year B.Tech student specializing in Artificial Intelligence. I'm passionate about coding, technology, and creating amazing web experiences!</p>
-        <p>I, am also NSS VOLUNTEER.</p>
-        <h2>My Interests</h2>
-        <ul>
-            <li>Programming</li>
-            <li>Artificial Intelligence</li>
-        </ul>
-        
-        <h2>Follow Me</h2>
-        <p>follow me on <a href="https://www.instagram.com/@aankush._10" target="_blank">Instagram</a></p>
-    </div>
-    <footer>
-        <p>© 2024 Ankush. All Rights Reserved.</p>
-    </footer>
-</body>
-</html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+p {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+section {
+    margin: 40px 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
